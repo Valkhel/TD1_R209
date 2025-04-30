@@ -2,7 +2,7 @@
 
 ### Projet de groupe (LiveShare) 👨‍👨‍👦‍👦
 
-#### Enzo Leconte - Marzoug Rayan - Yavuz Hamza - Foreau Hippolyte
+#### Enzo Leconte - Marzougue Rayan - Yavuz Hamza - Foreau Hippolyte
 
 Ce projet consiste réaliser une page Web proposant à l’utilisateur d’afficher des informations météorologiques
 de la commune de son choix via un formulaire. 🌧️
