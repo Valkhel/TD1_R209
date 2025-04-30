@@ -15,18 +15,22 @@ de la commune de son choix via un formulaire. 🌧️
 
 L’utilisateur peut, grâce à un formulaire, saisir un code postal puis choisir la commune concernée afin
 de récupérer les informations météorologiques suivantes :
+
 • La température minimale
 • La température maximale
 • La probabilité de pluie
 • Le nombre d’heures d’ensoleillement
-La page est responsive et conforme aux validateurs HTML et CSS du W3C.
+•La page est responsive et conforme aux validateurs HTML et CSS du W3C.
 
 API à utilisées 🔥 :
+
 • API de découpage administratif par commune :
+
 https://geo.api.gouv.fr/decoupage-administratif/communes
+
 • API météo de MétéoConcept  : 
+
 https://api.meteo-concept.com/
 
-# Lien du projet 😽 :
-
+# Lien du projet 😽 : https://valkhel.github.io/TD1_R209/
 
